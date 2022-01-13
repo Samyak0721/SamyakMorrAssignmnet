@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SamyakMorr</string>
+    <string name="card_number">Card Number</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="cvv">CVV</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+</resources>
